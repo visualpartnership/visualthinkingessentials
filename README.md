@@ -18,6 +18,12 @@ Este workshop se divide en tres partes:
 2. Interpretación Visual 🖍️.
 3. Representaciones Visuales ❤️.
 
+---
+
+<details>
+<summary>Abrir parte I 👈</summary>
+<br>
+  
 ## Parte 1: Tu relación con el dibujo.
 
 ![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/b322ee65-5348-41fb-b5fc-359261a93f32)
@@ -91,6 +97,9 @@ Esta actividad se trata de iterar. A través de la iteración de hacer varios ex
 3. En otra hoja realiza nuevamente retratos de la pintura a dos manos.
 4. Siéntete libre de explorar y que sean tus manos las que guíen tu pulso. Se trata de explorar.
 
+Muchas veces estamos con la idea de la perfección en dibujo, esto provoca que inconsientemente intentémos replicar el dibujo bajo ciertas premisas. Sin embargo el dibujo es una habilidad muy flexible, que puede ser muy improvisada y a la vez funcional. Dibujar con la mano no dominante es una actividad incómoda porque pierdes el control de lo que dibujas. Como lo muestra el arte de Basquiat, a veces es también un canal para desarrollar nuevas formas de comunicarte. 
+
+</details>
 
 
 
