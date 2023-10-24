@@ -82,8 +82,15 @@ Esta actividad se trata de iterar. A través de la iteración de hacer varios ex
 2. Haz una serie de retratos con la mano no dominante tratando de captar la mayor cantidad de detalles.
 3. Con la mano dominante haz repeticiones de tus retratos, deja que tu mano te guíe.
 
-**Parte C: Las recortes de Matisse**
 ![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/661d8c84-0c1e-4933-9196-9a60866644c5)
+
+**Parte C: Las recortes de Matisse**
+
+1. Mira atentamente la pintura de Matisse.
+2. Divide una hoja en dos secciones. En una realiza repeticiones de lo que vez con tu mano dominante, en la otra sección con tu mano dominante.
+3. En otra hoja realiza nuevamente retratos de la pintura a dos manos.
+4. Siéntete libre de explorar y que sean tus manos las que guíen tu pulso. Se trata de explorar.
+
 
 
 
