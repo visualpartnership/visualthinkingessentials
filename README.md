@@ -31,7 +31,7 @@ Se recomienda crear varios workbooks para hacer las actividades de este taller:
 
 El **Pensamiento Visual o Visual Thinking** es una habilidad que nos permite construir representaciones visuales a partir de la percepción de nuestra realidad. A lo largo de años de práctica y aprendizaje he desarrollado este workshop para comprender **los principios básicos** del Visual Thinking de tal forma que puedas aprender a crear tus propias herramientas visuales.
 
-Más de mostrarte los pasos para crear una ilustración, pretendo guiarte a través de actividades prácticas para que descubras tu habilidad de visua thinking.
+Más de mostrarte los pasos para crear una ilustración, pretendo guiarte a través de actividades prácticas para que descubras tu habilidad de visua thinking. Este workshop fue diseñado para impartirse de manera presencial, sin embargo puedes tomarlo por tu cuenta, se recomienda hacerlo en compañía de amigos o familia para que puedan complementar sus resultados. ❤️
 
 Este workshop se divide en tres partes:
 
