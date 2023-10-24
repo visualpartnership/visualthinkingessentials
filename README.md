@@ -164,3 +164,6 @@ IMPORTANTE: HACER DICCIONARIO VISUAL COMO TEMPLATE.
 ## Gracias por realizar el workshop de Visual Thinking 😁
 
 ![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/7984547b-a17d-41f8-b290-2c1c24e0a740)
+
+![DSC_0527](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/e84d8736-eaf5-4d13-bb22-6984320d87f6)
+
