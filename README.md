@@ -6,8 +6,6 @@ Bienvenidos a este workshop introductorio de Visual Thinking.
 
 ## Sobre el workshop 🎁
 
-![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/7984547b-a17d-41f8-b290-2c1c24e0a740)
-
 El **Pensamiento Visual o Visual Thinking** es una habilidad que nos permite construir representaciones visuales a partir de la percepción de nuestra realidad. A lo largo de años de práctica y aprendizaje he desarrollado este workshop para comprender **los principios básicos** del Visual Thinking de tal forma que puedas aprender a crear tus propias herramientas visuales.
 
 Más de mostrarte los pasos para crear una ilustración, pretendo guiarte a través de actividades prácticas para que descubras tu habilidad de visua thinking.
@@ -20,8 +18,10 @@ Este workshop se divide en tres partes:
 
 ---
 
+## Actividades ✌️
+
 <details>
-<summary>Abrir parte I 👈</summary>
+<summary>Ver parte I 👈</summary>
 <br>
   
 ## Parte 1: Tu relación con el dibujo.
@@ -105,6 +105,10 @@ Estas actividades son para conectar con la frustración y el rechazo del dibujo 
 
 </details>
 
+<details>
+  <summary>Ver parte II 👈</summary>
+  <br>
+  
 ## Parte 2: Interpretación Visual
 
 ![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/b3d7d0a9-0046-4807-8d2a-f1c2e8b54bea)
@@ -144,6 +148,19 @@ Muchas veces es imposible tener la velocidad para dibujar exactamente todo lo qu
 
 IMPORTANTE: HACER DICCIONARIO VISUAL COMO TEMPLATE.
 
+</details>
+
+<details>
+  <summary>Ver parte III 👈</summary>
+  <br>
+
+  
 ## Parte 3: Representaciones Visuales
 
 ![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/bb72e42b-4a21-426c-b14c-2a2316c916b8)
+
+</details>
+
+## Gracias por realizar el workshop de Visual Thinking 😁
+
+![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/7984547b-a17d-41f8-b290-2c1c24e0a740)
