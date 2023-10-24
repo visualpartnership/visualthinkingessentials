@@ -37,4 +37,4 @@ Muchas veces es imposible tener la velocidad para dibujar exactamente todo lo qu
 
 IMPORTANTE: HACER DICCIONARIO VISUAL COMO TEMPLATE.
 
-[![workshop badge](https://img.shields.io/badge/🔗link-HOME-blue?style=for-the-badge)](readme.md) 👈
+[![workshop badge](https://img.shields.io/badge/🔗link-HOME-blue?style=for-the-badge)](README.md) 👈
