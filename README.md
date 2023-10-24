@@ -63,6 +63,7 @@ Recursos de Visual Thinking y referencias:
 - [Visual Thinking Rudolf Arnheim](https://www.amazon.com.mx/Visual-Thinking-Rudolf-Arnheim/dp/0520242262/)
 - General Theory Systems by Bertanlanffy
 - Drawing a Hypothesis by Nikolaus Gansterer
+- [Festival de Pensamiento Visual](https://instagram.com/imaginadibujacrea?igshid=NTc4MTIwNjQ2YQ==)
 
 Contenido original por @carlogilmar. Octubre 2023.
 
