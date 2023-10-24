@@ -18,9 +18,9 @@ Este workshop se divide en tres partes:
 2. Interpretación Visual 🖍️.
 3. Representaciones Visuales ❤️.
 
-![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/b322ee65-5348-41fb-b5fc-359261a93f32)
-
 ## Parte 1: Tu relación con el dibujo.
+
+![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/b322ee65-5348-41fb-b5fc-359261a93f32)
 
 A menudo subestimamos nuestra relación con el arte y el dibujo, creemos que es algo sólo para grandes artistas. Esto es porque desde pequeños vivimos muy castigados y bajo la sombra de hacer las cosas "en regla", "bien" y "bonito" 🩴. Y a su vez esto provoca que crezca en nosotros una inseguridad respecto a nuestra habilidad del dibujo en nuestro día a día. Los juicios de valor sobre nosotros son aterradores y muy fuertes, de tal forma que abandonamos la posibilidad de usar nuestro trazo como una herramienta principal porque "no somos lo suficientement artísticos" para usarla. 
 
@@ -37,8 +37,6 @@ Esta sección trata de trabajar con esta habilidad tan castigada, el gran objeti
 5. Anota sobre tu ilustración cómo te has sentido con este ejercicio. 
 
 Este ejercicio trata de ejemplificar un caso muy cotidiano del dibujo: no saber dibujar. Conecta con esa frustración de la línea chueca, la dificultad para las dimensiones, el tiempo, el grosor, los símbolos que no te salieron, y anótalos ahí mismo.
-
-![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/b3d7d0a9-0046-4807-8d2a-f1c2e8b54bea)
 
 `Actividad 2: Taller de personajes`
 
@@ -67,10 +65,13 @@ Este ejercicio trata de ejemplificar un caso muy cotidiano del dibujo: no saber 
 
 Esta actividad se trata de iterar. A través de la iteración de hacer varios experimentos es posible ir soltando el trazo y sobre todo ir reconociendo la habilidad que tienes para dibujar, el propósito es experimentar con diferentes variaciones hasta encontrar la combinación que más te guste. Un truco muy importante es el de explorar un dibujo con repeticiones, con esto tu mano va adoptando comodidad sobre el mismo trazo y va encontrando formas diferentes de añadir nuevos detalles. Esta es una gran técnica para practicar tu dibujo. Reconecta con tu habilidad de dibujo. 
 
-IMPORTANTE: Preparar guía de exploraciones de cara y cuerpo de peanuts.
+**IMPORTANTE: Preparar guía de exploraciones de cara y cuerpo de peanuts.**
 
 ## Parte 2: Interpretación Visual
 
-![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/bb72e42b-4a21-426c-b14c-2a2316c916b8)
+![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/b3d7d0a9-0046-4807-8d2a-f1c2e8b54bea)
+
 
 ## Parte 3: Representaciones Visuales
+
+![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/bb72e42b-4a21-426c-b14c-2a2316c916b8)
