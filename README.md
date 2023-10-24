@@ -40,6 +40,35 @@ Este ejercicio trata de ejemplificar un caso muy cotidiano del dibujo: no saber 
 
 ![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/b3d7d0a9-0046-4807-8d2a-f1c2e8b54bea)
 
+`Actividad 2: Taller de personajes`
+
+**Parte A: Creación de personaje**
+1. Elige una figura geométrica.
+2. Agrega detalles: ojos, nariz, y boca. No importa el nivel de detalle, hazlo simple.
+3. Elige una figura geométrica diferente y úsala para el cuerpo.
+4. Agrega extremidades: manos y pies. ¡Listo, tienes un personaje!
+5. Ponle un nombre. 
+
+**Parte B: Exploraciones de cara**
+1. Llena una página con la figura de la cara que elegiste. No importa que tan geométrica te quede. 
+2. Llena cada figura explorando diferentes combinaciones, prueba hacer diferentes ojos, diferentes tamaños de nariz, diferente posición, incluye orejas, bigote, etc. Sé libre de presentar nuevos detalles, no importa si no te gusta. Sé libre de explorar.
+3. Juega también con las emociones, presenta caras de amor, alegria, miedo, tristeza, asco, enojo, etc.
+
+**Parte C: Exploraciones de cuerpo**
+1. Llena la página de diferentes cuerpos de tu personaje, puedes variar los tamaños y las formas.
+2. Agrega cara a todos los cuerpos, experimenta también con el tamaño y las expresiones como en el ejercicio anterior.
+3. Agrega extremidades, juega con la posición de las manos y los pies.
+4. Puedes agregar alguna otra ocurrencia. No intentes repetirlo, juega con las posibilidades y variaciones lo más que puedas.
+
+**Parte D: Exploraciones de tu personaje**
+1. De los ejercicios anteriores elige cuál personaje es tu favorito.
+2. Toma ese personaje y replícalo, recuerda ponerle su nombre.
+3. En toda la hoja repite ese personaje, haz pequeñas variaciones pero conservando la esencia de lo que ya elegiste.
+
+Esta actividad se trata de iterar. A través de la iteración de hacer varios experimentos es posible ir soltando el trazo y sobre todo ir reconociendo la habilidad que tienes para dibujar, el propósito es experimentar con diferentes variaciones hasta encontrar la combinación que más te guste. Un truco muy importante es el de explorar un dibujo con repeticiones, con esto tu mano va adoptando comodidad sobre el mismo trazo y va encontrando formas diferentes de añadir nuevos detalles. Esta es una gran técnica para practicar tu dibujo. Reconecta con tu habilidad de dibujo. 
+
+IMPORTANTE: Preparar guía de exploraciones de cara y cuerpo de peanuts.
+
 ## Parte 2: Interpretación Visual
 
 ![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/bb72e42b-4a21-426c-b14c-2a2316c916b8)
