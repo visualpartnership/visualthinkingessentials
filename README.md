@@ -26,7 +26,7 @@ A menudo subestimamos nuestra relación con el arte y el dibujo, creemos que es 
 
 Esta sección trata de trabajar con esta habilidad tan castigada, el gran objetivo es perderle el miedo al lápiz, y en vez de verlo como un castigo comenzar a verlo como una herramienta para experimentar y jugar libremente. 
 
-`Actividad 1: Mis frustraciones`
+### Actividad 1: Mis frustraciones
 
 ![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/8cf1098b-b1b2-4814-a72c-92473207f8cb)
 
@@ -38,7 +38,7 @@ Esta sección trata de trabajar con esta habilidad tan castigada, el gran objeti
 
 Este ejercicio trata de ejemplificar un caso muy cotidiano del dibujo: no saber dibujar. Conecta con esa frustración de la línea chueca, la dificultad para las dimensiones, el tiempo, el grosor, los símbolos que no te salieron, y anótalos ahí mismo.
 
-`Actividad 2: Taller de personajes`
+### Actividad 2: Taller de personajes
 
 **Parte A: Creación de personaje**
 1. Elige una figura geométrica.
@@ -66,6 +66,26 @@ Este ejercicio trata de ejemplificar un caso muy cotidiano del dibujo: no saber 
 Esta actividad se trata de iterar. A través de la iteración de hacer varios experimentos es posible ir soltando el trazo y sobre todo ir reconociendo la habilidad que tienes para dibujar, el propósito es experimentar con diferentes variaciones hasta encontrar la combinación que más te guste. Un truco muy importante es el de explorar un dibujo con repeticiones, con esto tu mano va adoptando comodidad sobre el mismo trazo y va encontrando formas diferentes de añadir nuevos detalles. Esta es una gran técnica para practicar tu dibujo. Reconecta con tu habilidad de dibujo. 
 
 **IMPORTANTE: Preparar guía de exploraciones de cara y cuerpo de peanuts.**
+
+`Actividad 3: Mano no dominante`
+
+**Parte A: Retrato a mano cambiada**
+1. Mira de nuevo **El Beso**.
+2. Realiza un retrato de nuevo, esta vez usa tu mano no dominante.
+3. Capta la mayor cantidad de detalles posible usando tu mano no dominante.
+4. Compara este retrato con el del primer ejercicio. ¿Se parecen?
+
+![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/62195a0f-8027-4f44-896b-c8f915c3405e)
+
+**Parte B: Los personajes de Basquiat** 
+1. Mira atentamente algunos retratos de Basquiat.
+2. Haz una serie de retratos con la mano no dominante tratando de captar la mayor cantidad de detalles.
+3. Con la mano dominante haz repeticiones de tus retratos, deja que tu mano te guíe.
+
+**Parte C: Las recortes de Matisse**
+![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/661d8c84-0c1e-4933-9196-9a60866644c5)
+
+
 
 ## Parte 2: Interpretación Visual
 
