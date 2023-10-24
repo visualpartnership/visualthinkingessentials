@@ -2,7 +2,10 @@
 
 # Garabatos para ilustrar un reflejo: Versión Extendida 🎨
 
-Bienvenidos a este workshop introductorio de Visual Thinking. **Ilustraciones originales creadas por Carlo Gilmar para Visual Partner-Ship.**
+Bienvenidos a este workshop introductorio de Visual Thinking. 
+
+**Ilustraciones y actividades originales creadas por Carlo Gilmar para Visual Partner-Ship.**
+
 ## Materiales
 
 1. Hojas blancas de papel
