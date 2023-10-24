@@ -9,6 +9,20 @@ Bienvenidos a este workshop introductorio de Visual Thinking.
 1. Hojas blancas de papel
 2. Plumas, plumones, o colores.
 
+## Workbook
+
+Se recomienda crear varios workbooks para hacer las actividades de este taller:
+
+1. Toma 6 hojas tamaño carta.
+2. Dobla todas por la mitad.
+3. Crea un cuadernillo con ellas.
+4. Pon una portada.
+5. Úsalo como cuaderno, al terminar las 6 hojas, crea uno nuevo.
+6. La idea es mantener los workbooks pequeños y muy concisos, y hacer todos los que necesites. Es una gran herramienta de aprendizaje.
+
+![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/1b46cc0b-cc18-48d6-bcd5-ad5a138c41bf)
+
+
 **Para este taller no se recomienda hacer uso de tabletas electrónicas.**
 
 ## Sobre el workshop 🎁
