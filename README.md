@@ -9,7 +9,7 @@ Bienvenidos a este workshop introductorio de Visual Thinking.
 1. Hojas blancas de papel
 2. Plumas, plumones, o colores.
 
-**Para este taller no se recomienda hacer uso de tabletas electrónicas. **
+**Para este taller no se recomienda hacer uso de tabletas electrónicas.**
 
 ## Sobre el workshop 🎁
 
