@@ -1,6 +1,6 @@
 ![Ilustración_sin_título](https://github.com/visualpartnership/9formasdeilustrarunreflejo/assets/17634377/1ad15b81-9bcd-4660-be3f-1b1f9eedfedd)
 
-# Garabatos para ilustrar un reflejo 🎨
+# Garabatos para ilustrar un reflejo: Versión Extendida 🎨
 
 Bienvenidos a este workshop introductorio de Visual Thinking. 
 
@@ -73,7 +73,7 @@ Esta actividad se trata de iterar. A través de la iteración de hacer varios ex
 
 **IMPORTANTE: Preparar guía de exploraciones de cara y cuerpo de peanuts.**
 
-`Actividad 3: Mano no dominante`
+### Actividad 3: Mano no dominante
 
 **Parte A: Retrato a mano cambiada**
 1. Mira de nuevo **El Beso**.
@@ -99,14 +99,43 @@ Esta actividad se trata de iterar. A través de la iteración de hacer varios ex
 
 Muchas veces estamos con la idea de la perfección en dibujo, esto provoca que inconsientemente intentémos replicar el dibujo bajo ciertas premisas. Sin embargo el dibujo es una habilidad muy flexible, que puede ser muy improvisada y a la vez funcional. Dibujar con la mano no dominante es una actividad incómoda porque pierdes el control de lo que dibujas. Como lo muestra el arte de Basquiat, a veces es también un canal para desarrollar nuevas formas de comunicarte. 
 
+## Parte 1: Tu relación con el dibujo
+
+Estas actividades son para conectar con la frustración y el rechazo del dibujo que todos llegamos a tener en cierta medida, con el taller de personajes aprendiste una gran forma de practicar el dibujo sobre iteraciones y exploraciones, mientras que con el dibujo con ambas manos te pone en una situación donde no puedes controlar del todo la línea de tu trazo y es tu única herramienta para dibujar. Conscientiza tu habilidad para dibujar y el potencial que puedes tener con la práctica. Te invito a repetir estos ejercicios las veces que sean. 
+
 </details>
-
-
 
 ## Parte 2: Interpretación Visual
 
 ![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/b3d7d0a9-0046-4807-8d2a-f1c2e8b54bea)
 
+### Actividad 4: Basta Visual
+
+1. Elige una letra del abecedario. Anota todas las palabras que puedas en un minuto.
+2. Ahora en tres minutos dibuja un ícono simbólico de las palabras que escribiste.
+3. Si terminas de dibujar todos, vuelve a dibujar las palabras con un ícono diferente, haz variaciones.
+4. Trata de ser rápido y contundente con tus íconos, se trata aquí de dibujar la mayor cantidad de dibujos, no importa la calidad de ellos, pueden ser garabatos o dibujos muy sencillos.
+
+En este ejercicio es importante la velocidad, practicando esto puedes comenzar a desarrollar las habilidades inmediatas de asociación palabra con imagen. Este es un proceso mental que necesita mucha práctica. Somos receptores de información, al traducirla en un ícono visual, estás procesando al momento dicha información.  
+
+### Actividad 5: Semánticas visuales
+
+1. Elige un tema al azar: `Motivación`, `Depresión`, `Felicidad`, `Arte`, `Profesión`.
+2. Anota el tema al centro de tu hoja, ahora a continuación comienza a anotar alrededor todas las ideas relacionadas al tema.
+3. Ahora alrededor de este listado, vuelve a anotar las ideas relacionadas a este segundo listado.
+4. Repite hasta terminar la hoja.
+5. En otra hoja anota el tema elegido al centro.
+6. Repite el mismo ejercicio, en vez de anotar ideas, dibuja lo relacionado a tu tema alrededor.
+7. Después vuelve a dibujar las ideas relacionadas a este primer listado de íconos.
+8. Deberás terminas con una hoja de muchos íconos que están interrelacionados entre sí. Guíate con tu primer ejercicio para tomar ideas de qué dibujar.
+
+La asociación de ideas es algo que nos ayuda a enriquecer un contexto dado, asociar ideas afínes nos permite extender la comprensión de algo, y sobre todo nos permite dotarlo de significado. Hacer esto de forma visual es un gran paso en nuestra percepción del pensamiento visual. Te aconsejo ir creando un diccionario visual donde anotes los íconos que vas encontrando en tu camino, de tal forma que los tengas a la mano para disponer de ellos.
+
+IMPORTANTE: HACER DICCIONARIO VISUAL COMO TEMPLATE.
+
+### Actividad 6: Traducción Visual
+
+1. 
 
 ## Parte 3: Representaciones Visuales
 
