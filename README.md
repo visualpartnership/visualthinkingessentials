@@ -135,7 +135,14 @@ IMPORTANTE: HACER DICCIONARIO VISUAL COMO TEMPLATE.
 
 ### Actividad 6: Traducción Visual
 
-1. 
+1. Escucha el siguiente audio: [Mirarte a los ojos de Nacho Aldeguer](https://www.youtube.com/watch?v=kERo9cjL-rU&t=111s)
+2. Al centro de tu hoja escribe como título "Mirarte a los ojos".
+3. Mientras escuchas ve dibujando las ideas que escuches. Trata de anotar la mayor cantidad posible.
+4. Repite el audio una segunda vez para repetir el ejercicio y complementar tu ilustración.
+
+Muchas veces es imposible tener la velocidad para dibujar exactamente todo lo que escuchas, tal es el caso de una canción, una charla, una conferencia, una clase. Sin embargo no siempre tienes que procesar todo, es más, no tienes que preocuparte tanto de qué procesas, sino de ser consciente de qué es lo que procesas. Tal vez en un audio de pocos minutos solo logres hacer 3 o 4 íconos, pero es la suma de esos elementos lo que representa lo que más conectas de inmediato.
+
+IMPORTANTE: HACER DICCIONARIO VISUAL COMO TEMPLATE.
 
 ## Parte 3: Representaciones Visuales
 
