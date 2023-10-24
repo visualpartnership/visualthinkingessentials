@@ -19,8 +19,10 @@ Se recomienda crear varios workbooks para hacer las actividades de este taller:
 4. Pon una portada.
 5. Úsalo como cuaderno, al terminar las 6 hojas, crea uno nuevo.
 6. La idea es mantener los workbooks pequeños y muy concisos, y hacer todos los que necesites. Es una gran herramienta de aprendizaje.
+7. Te dejo una portada que puedes imprimir para tus workbooks.
 
 ![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/1b46cc0b-cc18-48d6-bcd5-ad5a138c41bf)
+![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/7a9d36f8-fa9f-47ea-bb2e-4a5cc3b62629)
 
 
 **Para este taller no se recomienda hacer uso de tabletas electrónicas.**
