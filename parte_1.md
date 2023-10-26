@@ -1,4 +1,4 @@
-![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/b322ee65-5348-41fb-b5fc-359261a93f32)
+![](assets/6.png)
 
 ## Parte 1: Tu relación con el dibujo.
 
@@ -8,7 +8,7 @@ Esta sección trata de trabajar con esta habilidad tan castigada, el gran objeti
 
 ### Actividad 1: Mis frustraciones
 
-![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/8cf1098b-b1b2-4814-a72c-92473207f8cb)
+![](assets/7.png)
 
 1. Mira la pintura del Beso de Gustav Klimt.
 2. En una hoja de papel, con un solo color de pluma/plumón trata de imitar los rasgos más importantes de la imagen.
@@ -18,7 +18,7 @@ Esta sección trata de trabajar con esta habilidad tan castigada, el gran objeti
 
 Este ejercicio trata de ejemplificar un caso muy cotidiano del dibujo: no saber dibujar. Conecta con esa frustración de la línea chueca, la dificultad para las dimensiones, el tiempo, el grosor, los símbolos que no te salieron, y anótalos ahí mismo.
 
-<img width="428" alt="image" src="https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/16884d7b-0135-43c6-9f3d-72e10cdbf875">
+![](assets/8.png)
 
 ### Actividad 2: Taller de personajes
 
@@ -35,7 +35,7 @@ Este ejercicio trata de ejemplificar un caso muy cotidiano del dibujo: no saber 
 2. Llena cada figura explorando diferentes combinaciones, prueba hacer diferentes ojos, diferentes tamaños de nariz, diferente posición, incluye orejas, bigote, etc. Sé libre de presentar nuevos detalles, no importa si no te gusta. Sé libre de explorar.
 3. Juega también con las emociones, presenta caras de amor, alegria, miedo, tristeza, asco, enojo, etc.
 
-![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/730e42ce-4e8d-4924-8087-38bca74fe0dd)
+![](assets/9.png)
 
 **Parte C: Exploraciones de cuerpo**
 1. Llena la página de diferentes cuerpos de tu personaje, puedes variar los tamaños y las formas.
@@ -48,13 +48,13 @@ Este ejercicio trata de ejemplificar un caso muy cotidiano del dibujo: no saber 
 2. Toma ese personaje y replícalo, recuerda ponerle su nombre.
 3. En toda la hoja repite ese personaje, haz pequeñas variaciones pero conservando la esencia de lo que ya elegiste.
 
-![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/bc2a7a2a-a76f-44dc-a45a-563a2dfa1567)
+![](assets/10.png)
 
 Esta actividad se trata de iterar. A través de la iteración de hacer varios experimentos es posible ir soltando el trazo y sobre todo ir reconociendo la habilidad que tienes para dibujar, el propósito es experimentar con diferentes variaciones hasta encontrar la combinación que más te guste. Un truco muy importante es el de explorar un dibujo con repeticiones, con esto tu mano va adoptando comodidad sobre el mismo trazo y va encontrando formas diferentes de añadir nuevos detalles. Esta es una gran técnica para practicar tu dibujo. Reconecta con tu habilidad de dibujo.
 
-![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/bc7a40bc-20aa-4834-a21b-3238cb8e79e2)
+![](assets/11.png)
 
-![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/7d274ebe-867b-4d34-9b15-68e723aea9dc)
+![](assets/12.png)
 
 ### Actividad 3: Mano no dominante
 
@@ -66,29 +66,29 @@ Esta actividad se trata de iterar. A través de la iteración de hacer varios ex
 
 **Parte B: Los personajes de Basquiat**
 
-![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/62195a0f-8027-4f44-896b-c8f915c3405e)
+![](assets/13.png)
 
 1. Mira atentamente algunos retratos de Basquiat.
 2. Haz una serie de retratos con la mano no dominante tratando de captar la mayor cantidad de detalles.
 3. Con la mano dominante haz repeticiones de tus retratos, deja que tu mano te guíe.
 
-![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/2df0fa87-aed6-4e9f-8496-5608391ca3be)
+![](assets/14.png)
 
 **Parte C: Las recortes de Matisse**
 
-![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/661d8c84-0c1e-4933-9196-9a60866644c5)
+![](assets/15.png)
 
 1. Mira atentamente la pintura de Matisse.
 2. Divide una hoja en dos secciones. En una realiza repeticiones de lo que vez con tu mano dominante, en la otra sección con tu mano dominante.
 3. En otra hoja realiza nuevamente retratos de la pintura a dos manos.
 4. Siéntete libre de explorar y que sean tus manos las que guíen tu pulso. Se trata de explorar.
 
-![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/bbd9ebf0-8a32-4bd0-a12a-7bff9e785029)
+![](assets/16.png)
 
 Muchas veces estamos con la idea de la perfección en dibujo, esto provoca que inconsientemente intentémos replicar el dibujo bajo ciertas premisas. Sin embargo el dibujo es una habilidad muy flexible, que puede ser muy improvisada y a la vez funcional. Dibujar con la mano no dominante es una actividad incómoda porque pierdes el control de lo que dibujas. Como lo muestra el arte de Basquiat, a veces es también un canal para desarrollar nuevas formas de comunicarte.
 
 Estas actividades son para conectar con la frustración y el rechazo del dibujo que todos llegamos a tener en cierta medida, con el taller de personajes aprendiste una gran forma de practicar el dibujo sobre iteraciones y exploraciones, mientras que con el dibujo con ambas manos te pone en una situación donde no puedes controlar del todo la línea de tu trazo y es tu única herramienta para dibujar. Conscientiza tu habilidad para dibujar y el potencial que puedes tener con la práctica. Te invito a repetir estos ejercicios las veces que sean.
 
-![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/a678e974-6e98-4c6e-8762-39adbe1c91a5)
+![](assets/17.png)
 
 [![workshop badge](https://img.shields.io/badge/🔗link-HOME-blue?style=for-the-badge)](README.md) 👈
