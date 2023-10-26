@@ -52,7 +52,7 @@ Este ejercicio trata de ejemplificar un caso muy cotidiano del dibujo: no saber 
 
 Esta actividad se trata de iterar. A través de la iteración de hacer varios experimentos es posible ir soltando el trazo y sobre todo ir reconociendo la habilidad que tienes para dibujar, el propósito es experimentar con diferentes variaciones hasta encontrar la combinación que más te guste. Un truco muy importante es el de explorar un dibujo con repeticiones, con esto tu mano va adoptando comodidad sobre el mismo trazo y va encontrando formas diferentes de añadir nuevos detalles. Esta es una gran técnica para practicar tu dibujo. Reconecta con tu habilidad de dibujo.
 
-**IMPORTANTE: Preparar guía de exploraciones de cara y cuerpo de peanuts.**
+![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/bc7a40bc-20aa-4834-a21b-3238cb8e79e2)
 
 ### Actividad 3: Mano no dominante
 
