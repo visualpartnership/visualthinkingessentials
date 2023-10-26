@@ -18,6 +18,8 @@ Esta sección trata de trabajar con esta habilidad tan castigada, el gran objeti
 
 Este ejercicio trata de ejemplificar un caso muy cotidiano del dibujo: no saber dibujar. Conecta con esa frustración de la línea chueca, la dificultad para las dimensiones, el tiempo, el grosor, los símbolos que no te salieron, y anótalos ahí mismo.
 
+<img width="428" alt="image" src="https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/16884d7b-0135-43c6-9f3d-72e10cdbf875">
+
 ### Actividad 2: Taller de personajes
 
 **Parte A: Creación de personaje**
