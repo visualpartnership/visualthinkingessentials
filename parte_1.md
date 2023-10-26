@@ -64,16 +64,19 @@ Esta actividad se trata de iterar. A través de la iteración de hacer varios ex
 3. Capta la mayor cantidad de detalles posible usando tu mano no dominante.
 4. Compara este retrato con el del primer ejercicio. ¿Se parecen?
 
+**Parte B: Los personajes de Basquiat**
+
 ![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/62195a0f-8027-4f44-896b-c8f915c3405e)
 
-**Parte B: Los personajes de Basquiat**
 1. Mira atentamente algunos retratos de Basquiat.
 2. Haz una serie de retratos con la mano no dominante tratando de captar la mayor cantidad de detalles.
 3. Con la mano dominante haz repeticiones de tus retratos, deja que tu mano te guíe.
 
-![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/661d8c84-0c1e-4933-9196-9a60866644c5)
+![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/2df0fa87-aed6-4e9f-8496-5608391ca3be)
 
 **Parte C: Las recortes de Matisse**
+
+![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/661d8c84-0c1e-4933-9196-9a60866644c5)
 
 1. Mira atentamente la pintura de Matisse.
 2. Divide una hoja en dos secciones. En una realiza repeticiones de lo que vez con tu mano dominante, en la otra sección con tu mano dominante.
