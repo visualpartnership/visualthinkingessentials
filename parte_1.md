@@ -89,7 +89,6 @@ Muchas veces estamos con la idea de la perfección en dibujo, esto provoca que i
 
 Estas actividades son para conectar con la frustración y el rechazo del dibujo que todos llegamos a tener en cierta medida, con el taller de personajes aprendiste una gran forma de practicar el dibujo sobre iteraciones y exploraciones, mientras que con el dibujo con ambas manos te pone en una situación donde no puedes controlar del todo la línea de tu trazo y es tu única herramienta para dibujar. Conscientiza tu habilidad para dibujar y el potencial que puedes tener con la práctica. Te invito a repetir estos ejercicios las veces que sean.
 
-![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/4827d88b-20b3-4683-9d98-96fa8c900aa6)
-
+![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/a678e974-6e98-4c6e-8762-39adbe1c91a5)
 
 [![workshop badge](https://img.shields.io/badge/🔗link-HOME-blue?style=for-the-badge)](README.md) 👈
