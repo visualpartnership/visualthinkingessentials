@@ -14,14 +14,12 @@ En este ejercicio es importante la velocidad, practicando esto puedes comenzar a
 ### Actividad 5: Semánticas visuales
 
 1. Elige un tema al azar: `Motivación`, `Depresión`, `Felicidad`, `Arte`, `Profesión`.
-2. Anota el tema al centro de tu hoja, ahora a continuación comienza a anotar alrededor todas las ideas relacionadas al tema.
-3. Ahora alrededor de este listado, vuelve a anotar las ideas relacionadas a este segundo listado.
-4. Repite hasta terminar la hoja.
+2. Anota el tema al centro de tu hoja, ahora a continuación comienza a anotar alrededor todas las ideas relacionadas al tema. Todas las que puedas
+3. Ahora alrededor de estas ideas anota los antónimos de las ideas que anotaste.
+4. Cuando termines, anota ahora un ejemplo concreto de la idea más cercana que anotaste. Ejemplo: `Despreocupado` -> Antónimo: `Preocupad` -> Ejemplo: `Quedarse sin trabajo.`
 5. En otra hoja anota el tema elegido al centro.
-6. Repite el mismo ejercicio, en vez de anotar ideas, dibuja lo relacionado a tu tema alrededor.
-7. Después vuelve a dibujar las ideas relacionadas a este primer listado de íconos.
-8. Deberás terminas con una hoja de muchos íconos que están interrelacionados entre sí. Guíate con tu primer ejercicio para tomar ideas de qué dibujar.
-
+6. Realiza el mismo ejercicio, anota las ideas cercanas a la idea central, luego los antónimos, solo que después de estos, en vez de anotar algo, ilustra tus ejemplos concretos.
+   
 La asociación de ideas es algo que nos ayuda a enriquecer un contexto dado, asociar ideas afínes nos permite extender la comprensión de algo, y sobre todo nos permite dotarlo de significado. Hacer esto de forma visual es un gran paso en nuestra percepción del pensamiento visual. Te aconsejo ir creando un diccionario visual donde anotes los íconos que vas encontrando en tu camino, de tal forma que los tengas a la mano para disponer de ellos.
 
 IMPORTANTE: HACER DICCIONARIO VISUAL COMO TEMPLATE.
