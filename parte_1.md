@@ -29,10 +29,13 @@ Este ejercicio trata de ejemplificar un caso muy cotidiano del dibujo: no saber 
 4. Agrega extremidades: manos y pies. ¡Listo, tienes un personaje!
 5. Ponle un nombre.
 
+
 **Parte B: Exploraciones de cara**
 1. Llena una página con la figura de la cara que elegiste. No importa que tan geométrica te quede.
 2. Llena cada figura explorando diferentes combinaciones, prueba hacer diferentes ojos, diferentes tamaños de nariz, diferente posición, incluye orejas, bigote, etc. Sé libre de presentar nuevos detalles, no importa si no te gusta. Sé libre de explorar.
 3. Juega también con las emociones, presenta caras de amor, alegria, miedo, tristeza, asco, enojo, etc.
+
+![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/730e42ce-4e8d-4924-8087-38bca74fe0dd)
 
 **Parte C: Exploraciones de cuerpo**
 1. Llena la página de diferentes cuerpos de tu personaje, puedes variar los tamaños y las formas.
