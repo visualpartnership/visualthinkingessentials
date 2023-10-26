@@ -83,9 +83,9 @@ Esta actividad se trata de iterar. A través de la iteración de hacer varios ex
 3. En otra hoja realiza nuevamente retratos de la pintura a dos manos.
 4. Siéntete libre de explorar y que sean tus manos las que guíen tu pulso. Se trata de explorar.
 
-Muchas veces estamos con la idea de la perfección en dibujo, esto provoca que inconsientemente intentémos replicar el dibujo bajo ciertas premisas. Sin embargo el dibujo es una habilidad muy flexible, que puede ser muy improvisada y a la vez funcional. Dibujar con la mano no dominante es una actividad incómoda porque pierdes el control de lo que dibujas. Como lo muestra el arte de Basquiat, a veces es también un canal para desarrollar nuevas formas de comunicarte.
+![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/bbd9ebf0-8a32-4bd0-a12a-7bff9e785029)
 
-## Parte 1: Tu relación con el dibujo
+Muchas veces estamos con la idea de la perfección en dibujo, esto provoca que inconsientemente intentémos replicar el dibujo bajo ciertas premisas. Sin embargo el dibujo es una habilidad muy flexible, que puede ser muy improvisada y a la vez funcional. Dibujar con la mano no dominante es una actividad incómoda porque pierdes el control de lo que dibujas. Como lo muestra el arte de Basquiat, a veces es también un canal para desarrollar nuevas formas de comunicarte.
 
 Estas actividades son para conectar con la frustración y el rechazo del dibujo que todos llegamos a tener en cierta medida, con el taller de personajes aprendiste una gran forma de practicar el dibujo sobre iteraciones y exploraciones, mientras que con el dibujo con ambas manos te pone en una situación donde no puedes controlar del todo la línea de tu trazo y es tu única herramienta para dibujar. Conscientiza tu habilidad para dibujar y el potencial que puedes tener con la práctica. Te invito a repetir estos ejercicios las veces que sean.
 
