@@ -1,8 +1,8 @@
-![Ilustración_sin_título](https://github.com/visualpartnership/9formasdeilustrarunreflejo/assets/17634377/1ad15b81-9bcd-4660-be3f-1b1f9eedfedd)
+![](assets/1.png)
 
 # Garabatos para ilustrar un reflejo: Versión Extendida 🎨
 
-Bienvenidos a este workshop introductorio de Visual Thinking. 
+Bienvenidos a este workshop introductorio de Visual Thinking.
 
 **Ilustraciones y actividades originales creadas por Carlo Gilmar para Visual Partner-Ship.**
 
@@ -23,8 +23,8 @@ Se recomienda crear varios workbooks para hacer las actividades de este taller:
 6. La idea es mantener los workbooks pequeños y muy concisos, y hacer todos los que necesites. Es una gran herramienta de aprendizaje.
 7. Te dejo una portada que puedes imprimir para tus workbooks.
 
-![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/1b46cc0b-cc18-48d6-bcd5-ad5a138c41bf)
-![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/7a9d36f8-fa9f-47ea-bb2e-4a5cc3b62629)
+![](assets/2.png)
+![](assets/3.png)
 
 
 **Para este taller no se recomienda hacer uso de tabletas electrónicas.**
@@ -85,7 +85,5 @@ Recursos de Visual Thinking y referencias:
 
 Contenido original por @carlogilmar. Octubre 2023.
 
-![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/7984547b-a17d-41f8-b290-2c1c24e0a740)
-
-![DSC_0527](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/e84d8736-eaf5-4d13-bb22-6984320d87f6)
-
+![](assets/4.png)
+![](assets/5.png)
