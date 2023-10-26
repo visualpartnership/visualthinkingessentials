@@ -54,6 +54,8 @@ Esta actividad se trata de iterar. A través de la iteración de hacer varios ex
 
 ![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/bc7a40bc-20aa-4834-a21b-3238cb8e79e2)
 
+![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/7d274ebe-867b-4d34-9b15-68e723aea9dc)
+
 ### Actividad 3: Mano no dominante
 
 **Parte A: Retrato a mano cambiada**
