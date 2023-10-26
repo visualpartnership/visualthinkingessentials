@@ -29,7 +29,6 @@ Para esta actividad divide una hoja de papel en dos.
 4. Es una portada muy libre, la intención es que describas a la persona que hizo los íconos por medio de la portada que vas a crear. 
 
 
-
-
+Actividad 6: 
 
 [![workshop badge](https://img.shields.io/badge/🔗link-HOME-blue?style=for-the-badge)](README.md) 👈
