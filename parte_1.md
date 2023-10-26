@@ -48,7 +48,7 @@ Este ejercicio trata de ejemplificar un caso muy cotidiano del dibujo: no saber 
 2. Toma ese personaje y replícalo, recuerda ponerle su nombre.
 3. En toda la hoja repite ese personaje, haz pequeñas variaciones pero conservando la esencia de lo que ya elegiste.
 
-   ![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/bc2a7a2a-a76f-44dc-a45a-563a2dfa1567)
+![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/bc2a7a2a-a76f-44dc-a45a-563a2dfa1567)
 
 Esta actividad se trata de iterar. A través de la iteración de hacer varios experimentos es posible ir soltando el trazo y sobre todo ir reconociendo la habilidad que tienes para dibujar, el propósito es experimentar con diferentes variaciones hasta encontrar la combinación que más te guste. Un truco muy importante es el de explorar un dibujo con repeticiones, con esto tu mano va adoptando comodidad sobre el mismo trazo y va encontrando formas diferentes de añadir nuevos detalles. Esta es una gran técnica para practicar tu dibujo. Reconecta con tu habilidad de dibujo.
 
