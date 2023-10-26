@@ -1,4 +1,4 @@
-![](assets/21.png)
+![](assets/21.PNG)
 
 ## Parte 2: Interpretación Visual
 
@@ -11,7 +11,7 @@
 
 En este ejercicio es importante la velocidad, practicando esto puedes comenzar a desarrollar las habilidades inmediatas de asociación palabra con imagen. Este es un proceso mental que necesita mucha práctica. Somos receptores de información, al traducirla en un ícono visual, estás procesando al momento dicha información.
 
-![](assets/18.png)
+![](assets/18.PNG)
 
 ### Actividad 5: Semánticas visuales
 
@@ -24,7 +24,7 @@ En este ejercicio es importante la velocidad, practicando esto puedes comenzar a
 
 La asociación de ideas es algo que nos ayuda a enriquecer un contexto dado, asociar ideas afínes nos permite extender la comprensión de algo, y sobre todo nos permite dotarlo de significado. Hacer esto de forma visual es un gran paso en nuestra percepción del pensamiento visual. Te aconsejo ir creando un diccionario visual donde anotes los íconos que vas encontrando en tu camino, de tal forma que los tengas a la mano para disponer de ellos.
 
-![](assets/19.png)
+![](assets/19.PNG)
 
 ### Actividad 6: Traducción Visual
 
@@ -35,6 +35,6 @@ La asociación de ideas es algo que nos ayuda a enriquecer un contexto dado, aso
 
 Muchas veces es imposible tener la velocidad para dibujar exactamente todo lo que escuchas, tal es el caso de una canción, una charla, una conferencia, una clase. Sin embargo no siempre tienes que procesar todo, es más, no tienes que preocuparte tanto de qué procesas, sino de ser consciente de qué es lo que procesas. Tal vez en un audio de pocos minutos solo logres hacer 3 o 4 íconos, pero es la suma de esos elementos lo que representa lo que más conectas de inmediato.
 
-![](assets/20.png)
+![](assets/20.PNG)
 
 [![workshop badge](https://img.shields.io/badge/🔗link-HOME-blue?style=for-the-badge)](README.md) 👈
