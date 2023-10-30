@@ -1,6 +1,6 @@
 ![](assets/1.png)
 
-# Garabatos para ilustrar un reflejo: Versión Extendida 🎨
+# Garabatos para ilustrar un reflejo: Visual Thinking 🎨
 
 Bienvenidos a este workshop introductorio de Visual Thinking.
 
