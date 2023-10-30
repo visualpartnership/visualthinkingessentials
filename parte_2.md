@@ -22,9 +22,11 @@ En este ejercicio es importante la velocidad, practicando esto puedes comenzar a
 5. En otra hoja anota el tema elegido al centro.
 6. Realiza el mismo ejercicio, anota las ideas cercanas a la idea central, luego los antónimos, solo que después de estos, en vez de anotar algo, ilustra tus ejemplos concretos.
 
-La asociación de ideas es algo que nos ayuda a enriquecer un contexto dado, asociar ideas afínes nos permite extender la comprensión de algo, y sobre todo nos permite dotarlo de significado. Hacer esto de forma visual es un gran paso en nuestra percepción del pensamiento visual. Te aconsejo ir creando un diccionario visual donde anotes los íconos que vas encontrando en tu camino, de tal forma que los tengas a la mano para disponer de ellos.
+La asociación de ideas es algo que nos ayuda a enriquecer un contexto dado, asociar ideas afínes nos permite extender la comprensión de algo, y sobre todo nos permite dotarlo de significado. Hacer esto de forma visual es un gran paso en nuestra percepción del pensamiento visual. Te aconsejo ir creando un diccionario visual donde anotes los íconos que vas encontrando en tu camino, de tal forma que los tengas a la mano para disponer de ellos. De momento te dejo un diccionario visual con algunos iconos que puedes usar e ir complementando.
 
 ![](assets/19.PNG)
+
+![](assets/24.png)
 
 ### Actividad 6: Traducción Visual
 
