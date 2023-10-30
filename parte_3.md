@@ -1,4 +1,4 @@
-![Ilustración_sin_título](https://github.com/visualpartnership/formasdeilustrarunreflejo/assets/17634377/bb72e42b-4a21-426c-b14c-2a2316c916b8)
+![](assets/25.png)
 
 ## Parte 3: Representaciones Visuales
 
@@ -48,6 +48,10 @@ Para esta actividad divide una hoja de papel en dos.
 5. En una hoja, al centro, incorpora en una sola ilustración los íconos que elegiste.
 6. Agrega en texto las ideas que consideres importantes alrededor de tu ilustración principal.
 7. Añade nuevos íconos de las tarjetas, o bien los que tu consideres para complementar tu carta de navegación.
+
+![](assets/23.png)
+
+![](assets/22.png)
 
 Narrativas Visuales ejemplo Spiderman Across the Spiderverse: https://www.youtube.com/watch?v=rj7E5nLMFzA&t=163s
 
