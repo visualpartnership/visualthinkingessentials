@@ -2,16 +2,7 @@
 
 ## Parte 3: Representaciones Visuales
 
-### Actividad: StarMachine
-
-1.  Encuentra un símbolo para los siguientes instrumentos musicales: star machine, máquina de escribir, marimba, bateria, melódica, y teclado. Pueden ser las iniciales, íconos, figuras, etc.
-2. Toma una hoja de papel completa y dos plumones de diferente color.
-3. Escuchareas la canción en vivo de Starmachine 2000 https://www.youtube.com/watch?v=mf3bhAayHaw, al momento de iniciar, con la mano no dominante irás colocando puntos pequeños conforme va corriendo la música, deja que tu mano te guíe y que la presión de los puntos sea sensitiva al ritmo de la música.
-4. Mientras la música y el video van corriendo, con tu mano dominante irás anotando la inicial del instrumento que vaya apareciendo en el video.
-5. El objetivo es dibujar el flujo de ritmo que vas escuchando con tu mano no dominante, y al mismo tiempo ir anotando las veces que ves un instrumento musical.
-6. Cuenta y agrupa el número de veces que viste cada instrumento.
-
-### Actividad 5: Fábrica de Zines
+### Actividad 7: Fábrica de Zines
 
 Para esta actividad divide una hoja de papel en dos.
 
@@ -38,6 +29,26 @@ Para esta actividad divide una hoja de papel en dos.
 4. Es una portada muy libre, la intención es que describas a la persona que hizo los íconos por medio de la portada que vas a crear. 
 
 
-Actividad 6: 
+### Actividad 8: StarMachine
+
+1.  Encuentra un símbolo para los siguientes instrumentos musicales: star machine, máquina de escribir, marimba, bateria, melódica, y teclado. Pueden ser las iniciales, íconos, figuras, etc.
+2. Toma una hoja de papel completa y dos plumones de diferente color.
+3. Escucharas la canción en vivo de Starmachine 2000 https://www.youtube.com/watch?v=mf3bhAayHaw, al momento de iniciar, con la mano no dominante irás colocando puntos pequeños conforme va corriendo la música, deja que tu mano te guíe y que la presión de los puntos sea sensitiva al ritmo de la música.
+4. Mientras la música y el video van corriendo, con tu mano dominante irás anotando la inicial del instrumento que vaya apareciendo en el video.
+5. El objetivo es dibujar el flujo de ritmo que vas escuchando con tu mano no dominante, y al mismo tiempo ir anotando las veces que ves un instrumento musical.
+6. Cuenta y agrupa el número de veces que viste cada instrumento.
+7. En otra página visualiza dos datos, por un lado la pulsión de tu mano no dominante en la música, por otro el número de veces que captaste un instrumento.
+
+### Actividad 9: Carta de Navegación
+
+1. Toma un tarot, este deben ser las 16 tarjetas con íconos.
+2. Coloca una idea referente al visual thinking en cada una de las tarjetas.
+3. Juega con las ilustraciones, de tal forma que encuentres las cuatro o cinco ideas que para ti tienen mayor relevancia para definir el pensamiento visual.
+4. Tómate tu tiempo y juega con las combinaciones posibles.
+5. En una hoja, al centro, incorpora en una sola ilustración los íconos que elegiste.
+6. Agrega en texto las ideas que consideres importantes alrededor de tu ilustración principal.
+7. Añade nuevos íconos de las tarjetas, o bien los que tu consideres para complementar tu carta de navegación.
+
+Narrativas Visuales ejemplo Spiderman Across the Spiderverse: https://www.youtube.com/watch?v=rj7E5nLMFzA&t=163s
 
 [![workshop badge](https://img.shields.io/badge/🔗link-HOME-blue?style=for-the-badge)](README.md) 👈
