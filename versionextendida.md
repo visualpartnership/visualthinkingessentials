@@ -14,6 +14,11 @@ El camino de Visual Thinking es de mucha práctica y paciencia, pero es un tiemp
 2. Comienza a hacer un boceto donde anotes la información que va apareciendo por pantalla.
 3. Disecciona los flujos de información dentro de la app.
 
+![](assets/26.png)
+![](assets/27.png)
+![](assets/28.png)
+![](assets/29.png)
+
 ### Retrospectiva Visual
 
 1. Haz un círculo, y divídelo en 12. Cada parte corresponde a un mes del año.
@@ -24,6 +29,7 @@ El camino de Visual Thinking es de mucha práctica y paciencia, pero es un tiemp
 6. Cuando termines, trata de encontrar relación entre los sucesos que pasaron en el mismo mes.
 7. Esta es una ilustración de lo que ocurrio en tu año.
 
+![](assets/30.png)
 ### Ilustración de un noema
 
 ```
