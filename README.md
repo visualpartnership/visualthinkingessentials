@@ -57,6 +57,10 @@ Si completaste este taller y te interesa en seguir aprendiendo, aquí te dejo ot
 
 [![workshop badge](https://img.shields.io/badge/🔗link-VERSIONEXTENDIDA-blue?style=for-the-badge)](versionextendida.md)
 
+## Feedback
+
+[![workshop badge](https://img.shields.io/badge/🔗link-FEEDBACK-blue?style=for-the-badge)](https://forms.gle/KmH9E1HHKbD5rs2J8)
+
 ## Gracias por realizar el workshop de Visual Thinking 😁
 
 Si terminaste parte de este taller, te pido considerar:
