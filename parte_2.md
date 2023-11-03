@@ -39,4 +39,14 @@ Muchas veces es imposible tener la velocidad para dibujar exactamente todo lo qu
 
 ![](assets/20.PNG)
 
+### Actividad 7: StarMachine
+
+1.  Encuentra un símbolo para los siguientes instrumentos musicales: star machine, máquina de escribir, marimba, bateria, melódica, y teclado. Pueden ser las iniciales, íconos, figuras, etc.
+2. Toma una hoja de papel completa y dos plumones de diferente color.
+3. Escucharas la canción en vivo de Starmachine 2000 https://www.youtube.com/watch?v=mf3bhAayHaw, al momento de iniciar, con la mano no dominante irás colocando puntos pequeños conforme va corriendo la música, deja que tu mano te guíe y que la presión de los puntos sea sensitiva al ritmo de la música.
+4. Mientras la música y el video van corriendo, con tu mano dominante irás anotando la inicial del instrumento que vaya apareciendo en el video.
+5. El objetivo es dibujar el flujo de ritmo que vas escuchando con tu mano no dominante, y al mismo tiempo ir anotando las veces que ves un instrumento musical.
+6. Cuenta y agrupa el número de veces que viste cada instrumento.
+7. En otra página visualiza dos datos, por un lado la pulsión de tu mano no dominante en la música, por otro el número de veces que captaste un instrumento.
+
 [![workshop badge](https://img.shields.io/badge/🔗link-HOME-blue?style=for-the-badge)](README.md) 👈
