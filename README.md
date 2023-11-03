@@ -49,6 +49,8 @@ Este workshop se divide en tres partes:
 [![workshop badge](https://img.shields.io/badge/🔗link-PARTE2-blue?style=for-the-badge)](parte_2.md)
 [![workshop badge](https://img.shields.io/badge/🔗link-PARTE3-blue?style=for-the-badge)](parte_3.md)
 
+[![workshop badge](https://img.shields.io/badge/🔗link-FINAL-blue?style=for-the-badge)](theend.md)
+
 ## Versión Extendida 🚀
 
 Si completaste este taller y te interesa en seguir aprendiendo, aquí te dejo otras actividades.
