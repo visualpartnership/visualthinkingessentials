@@ -42,6 +42,21 @@ Para esta actividad divide una hoja de papel en dos.
 
 ![](assets/22.png)
 
+### Actividad 10: El modelo del sándwich
+
+![image](https://github.com/visualpartnership/visualthinkingessentials/assets/17634377/a6ac7c33-c79b-407c-854b-5188b8021ccc)
+
+1. Haz la lista de ingredientes que necesitarías para preparar un sandwich.
+3. Realiza la ilustración de un sándwhich. ¿Serías capaz de ilustrar todos los ingredientes en una sola ilustración?
+3. Encuentra un ícono para cada ingrediente.
+4. Apila los íconos de tal forma que expliques la preparación del sándwich.
+5. La ilustración final deberá comunicar dos cosas: ingredientes y preparación.
+
+![IMG_0755](https://github.com/visualpartnership/visualthinkingessentials/assets/17634377/f9bb458f-f246-412b-a952-e7499ae08a43)
+![IMG_0756](https://github.com/visualpartnership/visualthinkingessentials/assets/17634377/76bfedfe-64db-4cc8-9e05-a99d2d8a1b93)
+![IMG_0757](https://github.com/visualpartnership/visualthinkingessentials/assets/17634377/7bf6bdd3-8cfd-4c26-869c-4a3edd712cb3)
+
+
 Narrativas Visuales ejemplo Spiderman Across the Spiderverse: https://www.youtube.com/watch?v=rj7E5nLMFzA&t=163s
 
 [![workshop badge](https://img.shields.io/badge/🔗link-HOME-blue?style=for-the-badge)](README.md) 👈
