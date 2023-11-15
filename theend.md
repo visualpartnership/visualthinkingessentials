@@ -21,3 +21,7 @@
 ## Visual Thinking para biografías visuales
 
 ![](assets/40.png)
+
+## Visual Thinking
+
+![](assets/22.png)
