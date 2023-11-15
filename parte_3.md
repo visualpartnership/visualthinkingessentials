@@ -40,7 +40,6 @@ Para esta actividad divide una hoja de papel en dos.
 
 ![](assets/23.png)
 
-![](assets/22.png)
 
 ### Actividad 10: El modelo del sándwich
 
